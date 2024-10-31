@@ -148,7 +148,7 @@ if (!isset($_SESSION['username'])) {
 							<p>Jsou dny a nejsou dny</p>
 							<ul class="actions">
 								<li><a href="https://en.wikipedia.org/wiki/William_Shakespeare" class="button">Zdroj</a></li>
-								<li><a href="logout.php" class="button">Logout</a></li> TOHLE NEJAK UPRAV LUKASI OKAY?!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+								<li><a href="logout.php" class="button">Logout</a></li>
 							</ul>
 						</section>
 						<section>
